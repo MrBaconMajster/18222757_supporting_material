@@ -1,0 +1,38 @@
+{
+    "WalkToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499998,
+                "file_path": "results\\zGailNoneGamma2\\WalkToGoal\\WalkToGoal-499998.onnx",
+                "reward": -1.238250891529945,
+                "creation_time": 1722546716.356587,
+                "auxillary_file_paths": [
+                    "results\\zGailNoneGamma2\\WalkToGoal\\WalkToGoal-499998.pt"
+                ]
+            },
+            {
+                "steps": 937872,
+                "file_path": "results\\zGailNoneGamma2\\WalkToGoal\\WalkToGoal-937872.onnx",
+                "reward": -1.2410852791265,
+                "creation_time": 1722547415.9017885,
+                "auxillary_file_paths": [
+                    "results\\zGailNoneGamma2\\WalkToGoal\\WalkToGoal-937872.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 937872,
+            "file_path": "results\\zGailNoneGamma2\\WalkToGoal.onnx",
+            "reward": -1.2410852791265,
+            "creation_time": 1722547415.9017885,
+            "auxillary_file_paths": [
+                "results\\zGailNoneGamma2\\WalkToGoal\\WalkToGoal-937872.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

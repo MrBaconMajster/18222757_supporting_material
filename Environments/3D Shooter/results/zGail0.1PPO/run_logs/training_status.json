@@ -1,0 +1,29 @@
+{
+    "SpaceShooterAgent": {
+        "checkpoints": [
+            {
+                "steps": 16384,
+                "file_path": "results\\zGail0.1PPO\\SpaceShooterAgent\\SpaceShooterAgent-16384.onnx",
+                "reward": null,
+                "creation_time": 1722554239.2172883,
+                "auxillary_file_paths": [
+                    "results\\zGail0.1PPO\\SpaceShooterAgent\\SpaceShooterAgent-16384.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16384,
+            "file_path": "results\\zGail0.1PPO\\SpaceShooterAgent.onnx",
+            "reward": null,
+            "creation_time": 1722554239.2172883,
+            "auxillary_file_paths": [
+                "results\\zGail0.1PPO\\SpaceShooterAgent\\SpaceShooterAgent-16384.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

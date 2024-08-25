@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Unity\\EditorTest\\BasicTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A500A3-291D-1711-4F94-1DC3DF4C0799}|Assembly-CSharp.csproj|g:\\unity\\editortest\\basictest\\assets\\envs\\gridworld\\scripts\\walktogoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A500A3-291D-1711-4F94-1DC3DF4C0799}|Assembly-CSharp.csproj|solutionrelative:assets\\envs\\gridworld\\scripts\\walktogoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A500A3-291D-1711-4F94-1DC3DF4C0799}|Assembly-CSharp.csproj|G:\\Unity\\EditorTest\\BasicTest\\assets\\scripts\\walktogoalagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A500A3-291D-1711-4F94-1DC3DF4C0799}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\walktogoalagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalkToGoalAgent.cs",
+              "DocumentMoniker": "G:\\Unity\\EditorTest\\BasicTest\\Assets\\Scripts\\WalkToGoalAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WalkToGoalAgent.cs",
+              "ToolTip": "G:\\Unity\\EditorTest\\BasicTest\\Assets\\Scripts\\WalkToGoalAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WalkToGoalAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:11:11.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalkToGoal.cs",
+              "DocumentMoniker": "G:\\Unity\\EditorTest\\BasicTest\\Assets\\Envs\\GridWorld\\Scripts\\WalkToGoal.cs",
+              "RelativeDocumentMoniker": "Assets\\Envs\\GridWorld\\Scripts\\WalkToGoal.cs",
+              "ToolTip": "G:\\Unity\\EditorTest\\BasicTest\\Assets\\Envs\\GridWorld\\Scripts\\WalkToGoal.cs",
+              "RelativeToolTip": "Assets\\Envs\\GridWorld\\Scripts\\WalkToGoal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T11:54:44.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

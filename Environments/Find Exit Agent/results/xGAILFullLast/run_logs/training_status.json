@@ -1,0 +1,65 @@
+{
+    "FindExitAgent": {
+        "checkpoints": [
+            {
+                "steps": 8499818,
+                "file_path": "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-8499818.onnx",
+                "reward": -0.3859877785046895,
+                "creation_time": 1724204954.0764644,
+                "auxillary_file_paths": [
+                    "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-8499818.pt"
+                ]
+            },
+            {
+                "steps": 8999082,
+                "file_path": "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-8999082.onnx",
+                "reward": -1.7923554107546806,
+                "creation_time": 1724205574.8748221,
+                "auxillary_file_paths": [
+                    "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-8999082.pt"
+                ]
+            },
+            {
+                "steps": 9499360,
+                "file_path": "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-9499360.onnx",
+                "reward": -0.8137216450912612,
+                "creation_time": 1724206201.624086,
+                "auxillary_file_paths": [
+                    "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-9499360.pt"
+                ]
+            },
+            {
+                "steps": 9999716,
+                "file_path": "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-9999716.onnx",
+                "reward": 0.5795668810606003,
+                "creation_time": 1724206856.1106598,
+                "auxillary_file_paths": [
+                    "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-9999716.pt"
+                ]
+            },
+            {
+                "steps": 10011929,
+                "file_path": "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-10010929.onnx",
+                "reward": -0.14786335991488564,
+                "creation_time": 1724206857.3363025,
+                "auxillary_file_paths": [
+                    "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-10010929.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10011929,
+            "file_path": "results\\xGAILFullLast\\FindExitAgent.onnx",
+            "reward": -0.14786335991488564,
+            "creation_time": 1724206857.3363025,
+            "auxillary_file_paths": [
+                "results\\xGAILFullLast\\FindExitAgent\\FindExitAgent-10010929.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Crawler": {
+        "checkpoints": [
+            {
+                "steps": 8499169,
+                "file_path": "results\\CrawlerPPO\\Crawler\\Crawler-8499169.onnx",
+                "reward": 3168.666959635417,
+                "creation_time": 1721799734.2228549,
+                "auxillary_file_paths": [
+                    "results\\CrawlerPPO\\Crawler\\Crawler-8499169.pt"
+                ]
+            },
+            {
+                "steps": 8999173,
+                "file_path": "results\\CrawlerPPO\\Crawler\\Crawler-8999173.onnx",
+                "reward": 2439.2169526707044,
+                "creation_time": 1721801426.0293667,
+                "auxillary_file_paths": [
+                    "results\\CrawlerPPO\\Crawler\\Crawler-8999173.pt"
+                ]
+            },
+            {
+                "steps": 9499862,
+                "file_path": "results\\CrawlerPPO\\Crawler\\Crawler-9499862.onnx",
+                "reward": 2663.454334259033,
+                "creation_time": 1721803112.8053071,
+                "auxillary_file_paths": [
+                    "results\\CrawlerPPO\\Crawler\\Crawler-9499862.pt"
+                ]
+            },
+            {
+                "steps": 9999710,
+                "file_path": "results\\CrawlerPPO\\Crawler\\Crawler-9999710.onnx",
+                "reward": 3234.2164306640625,
+                "creation_time": 1721804802.4241898,
+                "auxillary_file_paths": [
+                    "results\\CrawlerPPO\\Crawler\\Crawler-9999710.pt"
+                ]
+            },
+            {
+                "steps": 10000710,
+                "file_path": "results\\CrawlerPPO\\Crawler\\Crawler-10000710.onnx",
+                "reward": 3066.334033203125,
+                "creation_time": 1721804802.5685022,
+                "auxillary_file_paths": [
+                    "results\\CrawlerPPO\\Crawler\\Crawler-10000710.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000710,
+            "file_path": "results\\CrawlerPPO\\Crawler.onnx",
+            "reward": 3066.334033203125,
+            "creation_time": 1721804802.5685022,
+            "auxillary_file_paths": [
+                "results\\CrawlerPPO\\Crawler\\Crawler-10000710.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

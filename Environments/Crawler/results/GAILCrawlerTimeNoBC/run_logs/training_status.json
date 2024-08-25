@@ -1,0 +1,65 @@
+{
+    "Crawler": {
+        "checkpoints": [
+            {
+                "steps": 5499441,
+                "file_path": "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-5499441.onnx",
+                "reward": 2753.5956092247598,
+                "creation_time": 1722342608.6929057,
+                "auxillary_file_paths": [
+                    "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-5499441.pt"
+                ]
+            },
+            {
+                "steps": 5999308,
+                "file_path": "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-5999308.onnx",
+                "reward": 2565.0085220336914,
+                "creation_time": 1722343780.9273038,
+                "auxillary_file_paths": [
+                    "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-5999308.pt"
+                ]
+            },
+            {
+                "steps": 6499709,
+                "file_path": "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-6499709.onnx",
+                "reward": 2169.7960094105115,
+                "creation_time": 1722344927.2756374,
+                "auxillary_file_paths": [
+                    "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-6499709.pt"
+                ]
+            },
+            {
+                "steps": 6999768,
+                "file_path": "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-6999768.onnx",
+                "reward": 2363.079180908203,
+                "creation_time": 1722346096.2477825,
+                "auxillary_file_paths": [
+                    "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-6999768.pt"
+                ]
+            },
+            {
+                "steps": 7073832,
+                "file_path": "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-7073832.onnx",
+                "reward": null,
+                "creation_time": 1722346278.2543185,
+                "auxillary_file_paths": [
+                    "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-7073832.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7073832,
+            "file_path": "results\\GAILCrawlerTimeNoBC\\Crawler.onnx",
+            "reward": null,
+            "creation_time": 1722346278.2543185,
+            "auxillary_file_paths": [
+                "results\\GAILCrawlerTimeNoBC\\Crawler\\Crawler-7073832.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

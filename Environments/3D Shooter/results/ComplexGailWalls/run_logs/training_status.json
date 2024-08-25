@@ -1,0 +1,110 @@
+{
+    "SpaceShooterAgent": {
+        "checkpoints": [
+            {
+                "steps": 38998554,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-38998554.onnx",
+                "reward": 1.9822983145713806,
+                "creation_time": 1722514111.6092167,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-38998554.pt"
+                ]
+            },
+            {
+                "steps": 39498874,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-39498874.onnx",
+                "reward": 0.5734766854438931,
+                "creation_time": 1722514832.364279,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-39498874.pt"
+                ]
+            },
+            {
+                "steps": 39998944,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-39998944.onnx",
+                "reward": 0.42794125051678794,
+                "creation_time": 1722515572.49702,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-39998944.pt"
+                ]
+            },
+            {
+                "steps": 40499386,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-40499386.onnx",
+                "reward": 0.823125726579187,
+                "creation_time": 1722516304.9737659,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-40499386.pt"
+                ]
+            },
+            {
+                "steps": 40999198,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-40999198.onnx",
+                "reward": 0.7775201374081089,
+                "creation_time": 1722517036.2369444,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-40999198.pt"
+                ]
+            },
+            {
+                "steps": 41498646,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-41498646.onnx",
+                "reward": 0.7007405276099841,
+                "creation_time": 1722518050.543944,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-41498646.pt"
+                ]
+            },
+            {
+                "steps": 41999067,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-41999067.onnx",
+                "reward": 0.8055051509290934,
+                "creation_time": 1722518780.3128963,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-41999067.pt"
+                ]
+            },
+            {
+                "steps": 42499613,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-42499613.onnx",
+                "reward": 0.8773445883788258,
+                "creation_time": 1722519515.1557245,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-42499613.pt"
+                ]
+            },
+            {
+                "steps": 42999081,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-42999081.onnx",
+                "reward": 0.7786465009007979,
+                "creation_time": 1722520250.110674,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-42999081.pt"
+                ]
+            },
+            {
+                "steps": 43409619,
+                "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-43409619.onnx",
+                "reward": 0.6908089901329181,
+                "creation_time": 1722520901.5836246,
+                "auxillary_file_paths": [
+                    "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-43409619.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 43409619,
+            "file_path": "results\\ComplexGailWalls\\SpaceShooterAgent.onnx",
+            "reward": 0.6908089901329181,
+            "creation_time": 1722520901.5836246,
+            "auxillary_file_paths": [
+                "results\\ComplexGailWalls\\SpaceShooterAgent\\SpaceShooterAgent-43409619.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

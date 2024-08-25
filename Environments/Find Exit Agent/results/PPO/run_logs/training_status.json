@@ -1,0 +1,65 @@
+{
+    "FindExitAgent": {
+        "checkpoints": [
+            {
+                "steps": 499740,
+                "file_path": "results\\PPO\\FindExitAgent\\FindExitAgent-499740.onnx",
+                "reward": 1.0527089983224869,
+                "creation_time": 1721669937.5144265,
+                "auxillary_file_paths": [
+                    "results\\PPO\\FindExitAgent\\FindExitAgent-499740.pt"
+                ]
+            },
+            {
+                "steps": 999712,
+                "file_path": "results\\PPO\\FindExitAgent\\FindExitAgent-999712.onnx",
+                "reward": 2.2014713247617084,
+                "creation_time": 1721670526.9476352,
+                "auxillary_file_paths": [
+                    "results\\PPO\\FindExitAgent\\FindExitAgent-999712.pt"
+                ]
+            },
+            {
+                "steps": 1499773,
+                "file_path": "results\\PPO\\FindExitAgent\\FindExitAgent-1499773.onnx",
+                "reward": 2.2981961464881895,
+                "creation_time": 1721671213.6728506,
+                "auxillary_file_paths": [
+                    "results\\PPO\\FindExitAgent\\FindExitAgent-1499773.pt"
+                ]
+            },
+            {
+                "steps": 1999415,
+                "file_path": "results\\PPO\\FindExitAgent\\FindExitAgent-1999415.onnx",
+                "reward": 2.0756479427218437,
+                "creation_time": 1721671939.3236492,
+                "auxillary_file_paths": [
+                    "results\\PPO\\FindExitAgent\\FindExitAgent-1999415.pt"
+                ]
+            },
+            {
+                "steps": 2125706,
+                "file_path": "results\\PPO\\FindExitAgent\\FindExitAgent-2125706.onnx",
+                "reward": 2.3138342440128326,
+                "creation_time": 1721672116.4386072,
+                "auxillary_file_paths": [
+                    "results\\PPO\\FindExitAgent\\FindExitAgent-2125706.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2125706,
+            "file_path": "results\\PPO\\FindExitAgent.onnx",
+            "reward": 2.3138342440128326,
+            "creation_time": 1721672116.4386072,
+            "auxillary_file_paths": [
+                "results\\PPO\\FindExitAgent\\FindExitAgent-2125706.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

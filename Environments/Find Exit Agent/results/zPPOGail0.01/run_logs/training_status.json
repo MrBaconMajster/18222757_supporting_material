@@ -1,0 +1,65 @@
+{
+    "FindExitAgent": {
+        "checkpoints": [
+            {
+                "steps": 4499470,
+                "file_path": "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-4499470.onnx",
+                "reward": null,
+                "creation_time": 1722870468.2476718,
+                "auxillary_file_paths": [
+                    "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-4499470.pt"
+                ]
+            },
+            {
+                "steps": 4999994,
+                "file_path": "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-4999994.onnx",
+                "reward": 2.557203536302271,
+                "creation_time": 1722871008.8367124,
+                "auxillary_file_paths": [
+                    "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-4999994.pt"
+                ]
+            },
+            {
+                "steps": 5499997,
+                "file_path": "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-5499997.onnx",
+                "reward": 2.5285713774593255,
+                "creation_time": 1722871552.8125675,
+                "auxillary_file_paths": [
+                    "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-5499997.pt"
+                ]
+            },
+            {
+                "steps": 5999938,
+                "file_path": "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-5999938.onnx",
+                "reward": 2.597890584987979,
+                "creation_time": 1722872095.911568,
+                "auxillary_file_paths": [
+                    "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-5999938.pt"
+                ]
+            },
+            {
+                "steps": 6046282,
+                "file_path": "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-6046282.onnx",
+                "reward": null,
+                "creation_time": 1722872150.6251998,
+                "auxillary_file_paths": [
+                    "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-6046282.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6046282,
+            "file_path": "results\\zPPOGail0.01\\FindExitAgent.onnx",
+            "reward": null,
+            "creation_time": 1722872150.6251998,
+            "auxillary_file_paths": [
+                "results\\zPPOGail0.01\\FindExitAgent\\FindExitAgent-6046282.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

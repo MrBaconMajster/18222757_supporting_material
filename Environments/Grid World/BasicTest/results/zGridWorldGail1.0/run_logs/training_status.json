@@ -1,0 +1,47 @@
+{
+    "WalkToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499997,
+                "file_path": "results\\zGridWorldGail1.0\\WalkToGoal\\WalkToGoal-499997.onnx",
+                "reward": -1.123529421056018,
+                "creation_time": 1723216409.9144254,
+                "auxillary_file_paths": [
+                    "results\\zGridWorldGail1.0\\WalkToGoal\\WalkToGoal-499997.pt"
+                ]
+            },
+            {
+                "steps": 999998,
+                "file_path": "results\\zGridWorldGail1.0\\WalkToGoal\\WalkToGoal-999998.onnx",
+                "reward": -1.2500000074505806,
+                "creation_time": 1723217531.1674156,
+                "auxillary_file_paths": [
+                    "results\\zGridWorldGail1.0\\WalkToGoal\\WalkToGoal-999998.pt"
+                ]
+            },
+            {
+                "steps": 1180000,
+                "file_path": "results\\zGridWorldGail1.0\\WalkToGoal\\WalkToGoal-1180000.onnx",
+                "reward": -1.2496598713657483,
+                "creation_time": 1723217967.1195416,
+                "auxillary_file_paths": [
+                    "results\\zGridWorldGail1.0\\WalkToGoal\\WalkToGoal-1180000.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1180000,
+            "file_path": "results\\zGridWorldGail1.0\\WalkToGoal.onnx",
+            "reward": -1.2496598713657483,
+            "creation_time": 1723217967.1195416,
+            "auxillary_file_paths": [
+                "results\\zGridWorldGail1.0\\WalkToGoal\\WalkToGoal-1180000.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

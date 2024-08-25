@@ -1,0 +1,47 @@
+{
+    "WalkToGoal": {
+        "checkpoints": [
+            {
+                "steps": 499989,
+                "file_path": "results\\GridWorldP1\\WalkToGoal\\WalkToGoal-499989.onnx",
+                "reward": 0.5108991810996136,
+                "creation_time": 1721743838.7897255,
+                "auxillary_file_paths": [
+                    "results\\GridWorldP1\\WalkToGoal\\WalkToGoal-499989.pt"
+                ]
+            },
+            {
+                "steps": 999996,
+                "file_path": "results\\GridWorldP1\\WalkToGoal\\WalkToGoal-999996.onnx",
+                "reward": 0.5598475197673298,
+                "creation_time": 1721744433.6869936,
+                "auxillary_file_paths": [
+                    "results\\GridWorldP1\\WalkToGoal\\WalkToGoal-999996.pt"
+                ]
+            },
+            {
+                "steps": 1012846,
+                "file_path": "results\\GridWorldP1\\WalkToGoal\\WalkToGoal-1012846.onnx",
+                "reward": 0.5494674534487302,
+                "creation_time": 1721744448.713287,
+                "auxillary_file_paths": [
+                    "results\\GridWorldP1\\WalkToGoal\\WalkToGoal-1012846.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1012846,
+            "file_path": "results\\GridWorldP1\\WalkToGoal.onnx",
+            "reward": 0.5494674534487302,
+            "creation_time": 1721744448.713287,
+            "auxillary_file_paths": [
+                "results\\GridWorldP1\\WalkToGoal\\WalkToGoal-1012846.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

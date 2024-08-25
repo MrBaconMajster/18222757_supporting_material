@@ -1,0 +1,29 @@
+{
+    "WalkToGoal": {
+        "checkpoints": [
+            {
+                "steps": 419357,
+                "file_path": "results\\GAILFinal2\\WalkToGoal\\WalkToGoal-419357.onnx",
+                "reward": -94.21431187220982,
+                "creation_time": 1722298059.6242256,
+                "auxillary_file_paths": [
+                    "results\\GAILFinal2\\WalkToGoal\\WalkToGoal-419357.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 419357,
+            "file_path": "results\\GAILFinal2\\WalkToGoal.onnx",
+            "reward": -94.21431187220982,
+            "creation_time": 1722298059.6242256,
+            "auxillary_file_paths": [
+                "results\\GAILFinal2\\WalkToGoal\\WalkToGoal-419357.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

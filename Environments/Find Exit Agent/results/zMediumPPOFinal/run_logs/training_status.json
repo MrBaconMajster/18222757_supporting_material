@@ -1,0 +1,65 @@
+{
+    "FindExitAgent": {
+        "checkpoints": [
+            {
+                "steps": 3499878,
+                "file_path": "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-3499878.onnx",
+                "reward": 2.612795212724865,
+                "creation_time": 1722533667.55342,
+                "auxillary_file_paths": [
+                    "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-3499878.pt"
+                ]
+            },
+            {
+                "steps": 3999922,
+                "file_path": "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-3999922.onnx",
+                "reward": 2.439037472009659,
+                "creation_time": 1722534319.359386,
+                "auxillary_file_paths": [
+                    "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-3999922.pt"
+                ]
+            },
+            {
+                "steps": 4499916,
+                "file_path": "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-4499916.onnx",
+                "reward": 2.642297411666197,
+                "creation_time": 1722534957.4460988,
+                "auxillary_file_paths": [
+                    "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-4499916.pt"
+                ]
+            },
+            {
+                "steps": 4999752,
+                "file_path": "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-4999752.onnx",
+                "reward": 2.6237947788026372,
+                "creation_time": 1722535578.0465946,
+                "auxillary_file_paths": [
+                    "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-4999752.pt"
+                ]
+            },
+            {
+                "steps": 5141114,
+                "file_path": "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-5141114.onnx",
+                "reward": 2.676010979546441,
+                "creation_time": 1722535763.7696755,
+                "auxillary_file_paths": [
+                    "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-5141114.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5141114,
+            "file_path": "results\\zMediumPPOFinal\\FindExitAgent.onnx",
+            "reward": 2.676010979546441,
+            "creation_time": 1722535763.7696755,
+            "auxillary_file_paths": [
+                "results\\zMediumPPOFinal\\FindExitAgent\\FindExitAgent-5141114.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

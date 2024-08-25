@@ -1,0 +1,38 @@
+{
+    "FindExitAgent": {
+        "checkpoints": [
+            {
+                "steps": 499965,
+                "file_path": "results\\MediumNoGail\\FindExitAgent\\FindExitAgent-499965.onnx",
+                "reward": 1.3872643278704748,
+                "creation_time": 1722363332.9265578,
+                "auxillary_file_paths": [
+                    "results\\MediumNoGail\\FindExitAgent\\FindExitAgent-499965.pt"
+                ]
+            },
+            {
+                "steps": 865212,
+                "file_path": "results\\MediumNoGail\\FindExitAgent\\FindExitAgent-865212.onnx",
+                "reward": null,
+                "creation_time": 1722363824.0206745,
+                "auxillary_file_paths": [
+                    "results\\MediumNoGail\\FindExitAgent\\FindExitAgent-865212.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 865212,
+            "file_path": "results\\MediumNoGail\\FindExitAgent.onnx",
+            "reward": null,
+            "creation_time": 1722363824.0206745,
+            "auxillary_file_paths": [
+                "results\\MediumNoGail\\FindExitAgent\\FindExitAgent-865212.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

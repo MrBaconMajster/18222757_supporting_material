@@ -1,0 +1,89 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1722554086",
+        "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Conda\\envs\\mlagents20\\Scripts\\mlagents-learn trainer_configPPOGail.yaml --num-envs=1 --time-scale=3 --env=Builds/Complex --torch-device=cpu --width=512 --height=512 --run-id=xGail0.1PPO --resume",
+        "mlagents_version": "1.0.0",
+        "mlagents_envs_version": "1.0.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.2.1+cu121",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1722554115"
+    },
+    "total": 28.856621799990535,
+    "count": 1,
+    "self": 0.7079887000145391,
+    "children": {
+        "run_training.setup": {
+            "total": 0.11113119998481125,
+            "count": 1,
+            "self": 0.11113119998481125
+        },
+        "TrainerController.start_learning": {
+            "total": 28.037501899991184,
+            "count": 1,
+            "self": 7.840001489967108e-05,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 27.897586400038563,
+                    "count": 1,
+                    "self": 11.483392000081949,
+                    "children": {
+                        "demo_to_buffer": {
+                            "total": 16.414194399956614,
+                            "count": 1,
+                            "self": 0.00020430004224181175,
+                            "children": {
+                                "load_demonstration": {
+                                    "total": 0.3026395000051707,
+                                    "count": 1,
+                                    "self": 0.2834063000045717,
+                                    "children": {
+                                        "read_file": {
+                                            "total": 0.019233200000599027,
+                                            "count": 1,
+                                            "self": 0.019233200000599027
+                                        }
+                                    }
+                                },
+                                "make_demo_buffer": {
+                                    "total": 16.1113505999092,
+                                    "count": 1,
+                                    "self": 1.681981100817211,
+                                    "children": {
+                                        "steps_from_proto": {
+                                            "total": 14.42936949909199,
+                                            "count": 54304,
+                                            "self": 6.4361664415337145,
+                                            "children": {
+                                                "_process_rank_one_or_two_observation": {
+                                                    "total": 7.993203057558276,
+                                                    "count": 434432,
+                                                    "self": 7.993203057558276
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "TrainerController._save_models": {
+                    "total": 0.1398370999377221,
+                    "count": 1,
+                    "self": 0.007553399889729917,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 0.13228370004799217,
+                            "count": 1,
+                            "self": 0.13228370004799217
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "SpaceShooterAgent": {
+        "checkpoints": [
+            {
+                "steps": 37999844,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-37999844.onnx",
+                "reward": 2.342095114132863,
+                "creation_time": 1724303598.4836142,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-37999844.pt"
+                ]
+            },
+            {
+                "steps": 38499808,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-38499808.onnx",
+                "reward": 2.309403425723032,
+                "creation_time": 1724304469.9178379,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-38499808.pt"
+                ]
+            },
+            {
+                "steps": 38999553,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-38999553.onnx",
+                "reward": 2.3530669525021413,
+                "creation_time": 1724305608.8611896,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-38999553.pt"
+                ]
+            },
+            {
+                "steps": 39499955,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-39499955.onnx",
+                "reward": 2.285513929724693,
+                "creation_time": 1724306476.6017525,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-39499955.pt"
+                ]
+            },
+            {
+                "steps": 39999939,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-39999939.onnx",
+                "reward": 2.336559886360228,
+                "creation_time": 1724307345.4344673,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-39999939.pt"
+                ]
+            },
+            {
+                "steps": 40499753,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-40499753.onnx",
+                "reward": 2.330281716931079,
+                "creation_time": 1724308213.158438,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-40499753.pt"
+                ]
+            },
+            {
+                "steps": 40999783,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-40999783.onnx",
+                "reward": 2.3519109198375343,
+                "creation_time": 1724309082.2444103,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-40999783.pt"
+                ]
+            },
+            {
+                "steps": 41499690,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-41499690.onnx",
+                "reward": 2.3523279403473114,
+                "creation_time": 1724310222.8765073,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-41499690.pt"
+                ]
+            },
+            {
+                "steps": 41999769,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-41999769.onnx",
+                "reward": 2.325630970397278,
+                "creation_time": 1724311092.804836,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-41999769.pt"
+                ]
+            },
+            {
+                "steps": 42000118,
+                "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-42000118.onnx",
+                "reward": 2.3203469580314198,
+                "creation_time": 1724311093.0724216,
+                "auxillary_file_paths": [
+                    "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-42000118.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 42000118,
+            "file_path": "results\\xPPOGAIL0.01\\SpaceShooterAgent.onnx",
+            "reward": 2.3203469580314198,
+            "creation_time": 1724311093.0724216,
+            "auxillary_file_paths": [
+                "results\\xPPOGAIL0.01\\SpaceShooterAgent\\SpaceShooterAgent-42000118.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.0.0",
+        "torch_version": "2.2.1+cu121"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1721775185",
+        "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Conda\\envs\\mlagents20\\Scripts\\mlagents-learn Crawler.yaml --num-envs=1 --time-scale=3 --env=Builds/UnityEnvironment --torch-device=cpu --width=512 --height=512 --run-id=Crawler1",
+        "mlagents_version": "1.0.0",
+        "mlagents_envs_version": "1.0.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.2.1+cu121",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1721775189"
+    },
+    "total": 4.060501100029796,
+    "count": 1,
+    "self": 0.3305266998941079,
+    "children": {
+        "run_training.setup": {
+            "total": 0.1191373000619933,
+            "count": 1,
+            "self": 0.1191373000619933
+        },
+        "TrainerController.start_learning": {
+            "total": 3.610837100073695,
+            "count": 1,
+            "self": 0.00011470005847513676,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 3.6107109000440687,
+                    "count": 1,
+                    "self": 3.6107109000440687
+                },
+                "TrainerController._save_models": {
+                    "total": 1.1499971151351929e-05,
+                    "count": 1,
+                    "self": 1.1499971151351929e-05
+                }
+            }
+        }
+    }
+}
