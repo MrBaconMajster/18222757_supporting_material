@@ -1,5 +1,5 @@
-# 18222757 Supporting Material
-This is a repository submitted as a part of the CS6143 Summer Project by student 18222757.
+# 18222757 Masters Project Supporting Material
+This is a repository submitted as a part of the Masters Project by student 18222757.
 
 Files inside final training results folder can be previewed using the jupyter notebook called Result_Data_Visualisation. These files are the results of training agents using PPO, GAIL, and PPO+GAIL
 
