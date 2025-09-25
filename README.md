@@ -104,6 +104,10 @@ order to move the agent must learn to coordinate 20 different joint rotations in
 
 <img width="750" height="521" alt="image" src="https://github.com/user-attachments/assets/d5391c53-b4d8-420d-85b4-c6203d71b368" />
 
+<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/a45c7b82-cd7d-434f-b950-72b0b7ae29a7" />
+
+
+
 <img width="598" height="208" alt="image" src="https://github.com/user-attachments/assets/03dcba6e-35e5-4ca8-9da0-a88a72c86c17" />
 
 <img width="617" height="599" alt="image" src="https://github.com/user-attachments/assets/391a9114-c0c3-449a-b8c6-3d55c179c212" />
